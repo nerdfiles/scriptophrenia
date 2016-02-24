@@ -1,7 +1,9 @@
 # Scriptophrenia
 
 A headless browser automation script to constantly query the page above the 
-fold and hammer-on the carouselling of the moods. Scriptophrenia for all.
+fold and hammer-on the carouselling of Social Network Mood Forms. 
+
+Scriptophrenia for all.
 
 ## Flow
 
