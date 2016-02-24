@@ -18,5 +18,6 @@ is present.
    (Find the Form in the Viewport)
 3. Batch Scrambler  
    Simultaneously engage any emojiform that has been loaded.
+4. Mood Tracker (Modality)
 
 [0]: https://github.com/addyosmani/critical
